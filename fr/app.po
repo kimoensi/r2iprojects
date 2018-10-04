@@ -347,7 +347,7 @@ msgid "About you:"
 msgstr "A propos de vous:"
 
 msgid "About {{count}} FOI requests found"
-msgstr ""
+msgstr "{{count}} Demande(s) d'accès à l'information trouvée(s)"
 
 msgid "Act on what you've learnt"
 msgstr "Agissez en fonction de ce que vous avez appris."
