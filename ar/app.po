@@ -2642,7 +2642,7 @@ msgid "Response to '{{title}}'"
 msgstr "الردّ على '{{title}}'"
 
 msgid "Response to this request is <strong>delayed</strong>."
-msgstr "الردّ على هذا المطلب <strong>وقع حذفه</strong>."
+msgstr "<strong> لقد تأخّر </ strong> الرد على مطلب النفاذ : ."
 
 msgid "Response to this request is <strong>long overdue</strong>."
 msgstr "الردّ على هذا المطلب <strong>تأخر كثيراً</strong>."
