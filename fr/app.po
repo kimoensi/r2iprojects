@@ -347,7 +347,7 @@ msgid "About you:"
 msgstr "A propos de vous:"
 
 msgid "About {{count}} FOI requests found"
-msgstr "{{count}} Demande(s) d'accès à l'information trouvée(s)"
+msgstr "Environ {{count}} Demande(s) d'accès à l'information trouvée(s)"
 
 msgid "Act on what you've learnt"
 msgstr "Agissez en fonction de ce que vous avez appris."
@@ -1213,7 +1213,8 @@ msgid "From the request page, try replying to a particular message, rather than 
 msgstr "Sur la page de demande, essayez répondre à un message particulier, plutôt que d'envoyer \\n un  suivi général. Si vous avez besoin de faire un suivi général, et vous  saviez \\ n quel  e-mail  ira à la bonne place, s'il vous plaît <a href=\"{{url}}\">Envoyez le nous </a>."
 
 msgid "From time to time requests need to be hidden on {{site_name}}. This can happen for a number of reasons. For example, the request could be about someone’s personal information that shouldn’t be public or the contents could be abusive."
-msgstr ""
+msgid "De temps en temps, les demandes doivent être masquées sur {{site_name}}. Cela peut arriver pour plusieurs raisons. Par exemple, la demande peut concerner des informations personnelles qui ne devraient pas être publiques ou dont le contenu peut être abusif."
+"
 
 msgid "From:"
 msgstr "De:"
@@ -1222,7 +1223,7 @@ msgid "GIVE DETAILS ABOUT YOUR COMPLAINT HERE"
 msgstr "DONNEZ DES DÉTAILS SUR VOTRE PLAINTE ICI"
 
 msgid "Got a {{site_name}} account?"
-msgstr ""
+msgstr "Vous avez un compte {{site_name}} ? "
 
 msgid "Got an account?"
 msgstr "Vous avez un compte?"
@@ -1291,7 +1292,7 @@ msgid "Here you can <a href=\"#public_bodies\">see how well public bodies have r
 msgstr ""
 
 msgid "Here you can see how often {{site_name}} administrators have hidden requests."
-msgstr ""
+msgstr "Ici vous pouvez voir à quelle fréquence ,les administrateurs d' {{site_name}} ont des requêtes cachées  "
 
 msgid "Here's your daily request summary from {{site_name}}"
 msgstr ""
@@ -1300,10 +1301,10 @@ msgid "Hi! We need your help. The person who made the following request hasn't t
 msgstr "Bonjour, Nous avons besoin de votre aide . La personne qui a effectué cette demande \\n ne nous a pas dit si'il a reçu une bonne réponse . Veuillez  prendre quelques minutes pour lire et nous aider a classifier la demande .  \\n Merci"
 
 msgid "Hidden"
-msgstr ""
+msgstr "Caché"
 
 msgid "Hidden requests are not counted. Unclassified requests do not count towards the percentages."
-msgstr ""
+msgstr "Les demandes cachées ne sont pas comptées. Les demandes non classifiées ne comptent pas dans les pourcentages."
 
 msgid "Hide request"
 msgstr "Cacher la demande"
@@ -1689,16 +1690,16 @@ msgid "Keywords"
 msgstr "Mots-clés"
 
 msgid "Last 28 days"
-msgstr ""
+msgstr "28 derniers jours"
 
 msgid "Last authority viewed: {{authority_url}}"
 msgstr "Dernière autorité publique consultée : {{authority_url}}"
 
 msgid "Last edit editor can't be blank"
-msgstr ""
+msgstr "La dernière édition ne peut être vide"
 
 msgid "Last edit editor can't be longer than 255 characters"
-msgstr ""
+msgstr "la dernière édition ne peut pas contenir plus de 255 caractères"
 
 msgid "Last request viewed: {{request_url}}"
 msgstr "Dernière demande consultée : {{request_url}}"
@@ -1815,10 +1816,10 @@ msgid "More similar requests"
 msgstr "Plus de demandes similaires"
 
 msgid "Most frequent annotators"
-msgstr ""
+msgstr "Les plus fréquents"
 
 msgid "Most frequent requesters"
-msgstr ""
+msgstr "Demandeurs les plus fréquents"
 
 msgid "My profile"
 msgstr "Mon profil"
@@ -1953,7 +1954,7 @@ msgid "Now preview your message asking for an internal review"
 msgstr "Maintenant prévisualisez votre message demandant un examen interne"
 
 msgid "Number of request hide events over time"
-msgstr ""
+msgstr "Nombre d'événements de demande de masquage dans le temps"
 
 msgid "Number of requests"
 msgstr "Nombre de requêtes"
@@ -1965,7 +1966,7 @@ msgid "Offensive? Unsuitable?"
 msgstr "Offensif? inadapté?"
 
 msgid "Oh no! Sorry to hear that your request was refused. Here is what to do now."
-msgstr "Oh non! Désolés d'apprendre que votre demande a été refusée. Voici ce qu'il faut faire maintenant."
+msgstr " Désolés d'apprendre que votre demande a été refusée. Voici ce qu'il faut faire maintenant."
 
 msgid "Old e-mail:"
 msgstr "Ancien e-mail :"
@@ -2908,7 +2909,7 @@ msgid "Successful Freedom of Information requests"
 msgstr "Demande d'accès à l'information réussie"
 
 msgid "Successful requests"
-msgstr "Demandes qui ont abouti"
+msgstr "Demandes abouties"
 
 msgid "Successful."
 msgstr "Réussi."
@@ -3377,7 +3378,7 @@ msgid "This request will be made public on {{site_name}} in the next week. If yo
 msgstr ""
 
 msgid "This section on public body statistics is currently experimental, so there are some caveats that should be borne in mind:"
-msgstr ""
+msgstr "Cette section sur les statistiques des organismes publics est actuellement expérimentale.il faut donc garder à l’esprit certaines mises en garde:"
 
 msgid "This table shows the technical details of the internal events that happened to this request on {{site_name}}. This could be used to generate information about the speed with which authorities respond to requests, the number of requests which require a postal response and much more."
 msgstr "Ce tableau présente les détails techniques des événements internes qui ont eu lieu \\n à cette demande sur  {{site_name}}. Cela pourrait être utilisé pour générer des informations sur  \\n la vitesse avec laquelle les autorités  répondent aux demandes, le nombre de demandes \\n qui nécessitent une réponse postale et bien plus encore."
@@ -4546,7 +4547,7 @@ msgid "unknown status {{status}}"
 msgstr "état inconnu {{status}}"
 
 msgid "unresolved requests"
-msgstr "demandes qui n'ont pas encore abouti"
+msgstr "demandes en cours de réponse"
 
 msgid "unsubscribe"
 msgstr "se désabonner"
@@ -4555,7 +4556,7 @@ msgid "unsubscribe all"
 msgstr "désabonner tout "
 
 msgid "unsuccessful requests"
-msgstr "demandes qui n'ont pas abouti"
+msgstr "demandes non abouties"
 
 msgid "users"
 msgstr "utilisateurs"
