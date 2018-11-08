@@ -497,7 +497,7 @@ msgid "Applies to"
 msgstr "ينطبق على"
 
 msgid "Are we missing a public authority?"
-msgstr "هل يوجد هيكل عمومي غير مدرجة؟"
+msgstr "هل يوجد هيكل عمومي غير مدرج؟"
 
 msgid "Are you sure you want to disable two factor authentication?"
 msgstr "هل تريد تعطيل التوثيق ذو عاملين؟"
@@ -533,7 +533,7 @@ msgid "Attachment:"
 msgstr "ملحق"
 
 msgid "Authority email:"
-msgstr "البريد الإلكتروني للهيكل :"
+msgstr " البريد الإلكتروني للهيكل :"
 
 msgid "Authority name"
 msgstr "اسم الهيكل "
@@ -629,7 +629,7 @@ msgid "Cancel some {{site_name}} alerts"
 msgstr "الغاء بعض {{site_name}} التنبيهات"
 
 msgid "Cancel, return to your profile page"
-msgstr "الغاء،عودة الى الصفحة الرئيسية"
+msgstr "الغاءالعودة الى الصفحة الرئيسية"
 
 msgid "Censor rule"
 msgstr "قاعدة تخص الرقابة"
